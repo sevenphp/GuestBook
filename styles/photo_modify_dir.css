@@ -1,0 +1,44 @@
+@CHARSET "UTF-8";
+
+body {
+	width:auto;
+}
+
+#photo-add{
+	width:80%;
+	margin:0 auto;
+	
+}
+
+#photo-add dl{
+	margin:30px auto;
+	width:400px;
+	height:300px;
+/* 	background:red; */
+}
+
+#photo-add dl dt{
+	height:24px;
+	line-height:24px;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+}
+
+#photo-add dl dd{
+	padding:5px 10px;
+	text-align:center;
+}
+
+#photo-add dl dd#showpass{
+	display:none;
+}
+
+#photo-add dl dd textarea{
+	height:50px;
+}
+
+.text{
+	border:1px #D6D dashed;
+	width:160px;
+}

@@ -1,0 +1,71 @@
+#header{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
+
+#login{
+	width:960px;
+	margin:0 auto;
+	border:2px dashed #D6D6D6;
+	margin-top:5px;
+}
+
+#login dl{
+	width:400px;
+	margin:0 auto;
+}
+
+#login dl dt{
+	border:2px dashed #D6D6D6;
+	text-align:center;
+}
+
+#login dl dd{
+	height:35px;
+	line-height:35px;
+	margin:3px 0;
+}
+
+#login dl dd img{
+	cursor:pointer;
+}
+
+#login dl dd #subLogin{
+	margin:10px 0 0 70px;
+	width:50px;
+}
+
+#login dl dd #subReg{
+	margin:10px 0 0 30px;
+	width:50px;
+}
+
+.text{
+	border:1px dashed #333;
+}
+
+.code{
+	width:70px;
+}
+
+#codeimg{
+	position:relative;
+	top:8px;
+}
+
+#login h2{
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-weight:bolder;
+	font-size:20px;
+	border-bottom: 2px dashed #D6D6D6;
+	margin:0 0 10px 0;
+}
+
+#footer{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}

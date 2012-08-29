@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+
+body {
+	width:auto;
+}
+
+#article_modify{
+	width:80%;
+	margin:0 auto;
+	
+}
+
+#article_modify h3{
+	border:2px dashed #D6D6D6;	
+	text-align:center;
+}
+
+#article_modify dl{
+	margin-left:200px;
+}
+
+#article_modify dl dd{
+	margin:5px 0;
+}
+
+#article_modify dl dd.type img{
+	position: relative;
+	top:3px;
+}
+
+#article_modify dl dd.type input{
+	margin-right:3px;
+}
+
+#article_modify dl dd img{
+	cursor:pointer;
+	position: relative;
+	top:8px;
+}
+.text{
+	border:1px dashed #D6D;	
+}
+.title{
+	width:400px;
+}
+.code{
+	width:60px;
+}
+
+#article_modify textarea{
+	width:670px;
+	height:250px;
+}

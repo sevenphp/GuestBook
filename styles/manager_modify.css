@@ -1,0 +1,116 @@
+#header{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
+
+#member{
+	width:960px;
+	margin:0 auto;
+	border:2px dashed #D6D6D6;
+	margin-top:5px;
+	padding-bottom:7px;
+
+}
+
+#member h2{
+	text-align:center;
+	font-weight:bold;
+	font-size:16px;
+	height:30px;
+	line-height:30px;	
+}
+#member #member-slider{
+	width:300px;
+	float:left;
+	/*height:700px;*/
+	margin:20px 0 10px 40px;
+	border:2px dashed #CCC;
+	/*background:green;*/
+}
+
+#member #member-slider dl{
+	width:240px;
+	margin:20px auto;
+}
+
+#member #member-slider dl dt{
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+	background:#666;
+	color:#FFF;
+}
+
+#member #member-slider dl dd{
+
+}
+
+#member #member-slider dl dd a{
+	display:block;
+	height:36px;
+	line-height:36px;
+	text-align:center;
+	background:#888;
+	color:#000;
+	text-decoration:none;	
+}
+
+#member #member-slider dl dd a:hover{
+	font-weight:bold;
+	color:#EEE;
+	background:#777;
+}
+
+#member #member-main{
+	margin:20px 30px 10px 0;
+	width:560px;
+	border:2px dashed #CCC;
+	/*height:700px;*/
+	float:right;
+}
+
+#member #member-main dl{
+	width:480px;
+	margin:10px auto;
+}
+
+#member #member-main dl dd{
+	height:40px;
+	line-height:40px;
+	margin:5px 0;
+	border-bottom:1px dashed #777;
+	color:#555;
+}
+
+.text{
+	border:1px dashed #333;
+}
+
+.code{
+	width:60px;
+}
+
+.noword{
+	width:270px;
+}
+
+#member #member-main dl dd img.codeimg{
+	float:right;
+	display:block;
+	margin-top:8px;
+	margin-right:250px;
+	cursor:pointer;
+}
+
+
+
+
+
+#footer{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}

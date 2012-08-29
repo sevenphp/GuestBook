@@ -1,0 +1,597 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	editor/kindeditor-min.js	/^\/* KindEditor 4.1.1 (2012-06-10), Copyright (C) kindsoft.net, Licence: http:\/\/www.kindsoft.net\/license.php *\/(function(z,k){function V(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Array]"}function bb(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Function]"}function L(a,b){for(var c=0,d=b.length;c<d;c++)if(a===b[c])return c;return-1}function n(a,b){if(V(a))for(var c=0,d=a.length;c<d;c++){if(b.call(a[c],c,a[c])===!1)break}else for(c in a)if(a.hasOwnProperty(c)&&b.call(a[c],c,a[c])===!1)break}function A(a){return a.replace(\/(?:^[ \\t\\n\\r]+)|(?:[ \\t\\n\\r]+$)\/g,$/;"	f
+DB_HOST	includes/CopyOfconn.inc.php	/^	define('DB_HOST', 'localhost');$/;"	d
+DB_HOST	includes/conn.inc.php	/^	define('DB_HOST', 'localhost');$/;"	d
+DB_NAME	includes/CopyOfconn.inc.php	/^	define('DB_NAME', 'testcms');$/;"	d
+DB_NAME	includes/conn.inc.php	/^	define('DB_NAME', 'testcms');$/;"	d
+DB_PASS	includes/CopyOfconn.inc.php	/^	define('DB_PASS', '');$/;"	d
+DB_PASS	includes/conn.inc.php	/^	define('DB_PASS', '');$/;"	d
+DB_USER	includes/CopyOfconn.inc.php	/^	define('DB_USER', 'root');$/;"	d
+DB_USER	includes/conn.inc.php	/^	define('DB_USER', 'root');$/;"	d
+IN_TAG	active.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	article_detail.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	article_modify.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	article_post.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	blog.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	face.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	flower.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	flower_list.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	flower_mutil_del.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	friend.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	friend_check.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	friend_list.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	friend_mutil_del.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	index.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	login.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	logout.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	member.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	member_modify.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	message.php	/^	define('IN_TAG',true);$/;"	d
+IN_TAG	message_detail.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	message_list.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	message_max_del.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	message_singal_del.php	/^	define('IN_TAG', true);$/;"	d
+IN_TAG	reg.php	/^	define('IN_TAG', true);$/;"	d
+K.swfupload	editor/plugins/multiimage/multiimage.js	/^K.swfupload = function(element, options) {$/;"	f
+Object	editor/kindeditor-min.js	/^\/* KindEditor 4.1.1 (2012-06-10), Copyright (C) kindsoft.net, Licence: http:\/\/www.kindsoft.net\/license.php *\/(function(z,k){function V(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Array]"}function bb(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Function]"}function L(a,b){for(var c=0,d=b.length;c<d;c++)if(a===b[c])return c;return-1}function n(a,b){if(V(a))for(var c=0,d=a.length;c<d;c++){if(b.call(a[c],c,a[c])===!1)break}else for(c in a)if(a.hasOwnProperty(c)&&b.call(a[c],c,a[c])===!1)break}function A(a){return a.replace(\/(?:^[ \\t\\n\\r]+)|(?:[ \\t\\n\\r]+$)\/g,$/;"	c
+Object.toString	editor/kindeditor-min.js	/^\/* KindEditor 4.1.1 (2012-06-10), Copyright (C) kindsoft.net, Licence: http:\/\/www.kindsoft.net\/license.php *\/(function(z,k){function V(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Array]"}function bb(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Function]"}function L(a,b){for(var c=0,d=b.length;c<d;c++)if(a===b[c])return c;return-1}function n(a,b){if(V(a))for(var c=0,d=a.length;c<d;c++){if(b.call(a[c],c,a[c])===!1)break}else for(c in a)if(a.hasOwnProperty(c)&&b.call(a[c],c,a[c])===!1)break}function A(a){return a.replace(\/(?:^[ \\t\\n\\r]+)|(?:[ \\t\\n\\r]+$)\/g,$/;"	m
+SERVICES_JSON_IN_ARR	editor/php/JSON.php	/^define('SERVICES_JSON_IN_ARR',  3);$/;"	d
+SERVICES_JSON_IN_CMT	editor/php/JSON.php	/^define('SERVICES_JSON_IN_CMT', 5);$/;"	d
+SERVICES_JSON_IN_OBJ	editor/php/JSON.php	/^define('SERVICES_JSON_IN_OBJ',  4);$/;"	d
+SERVICES_JSON_IN_STR	editor/php/JSON.php	/^define('SERVICES_JSON_IN_STR',  2);$/;"	d
+SERVICES_JSON_LOOSE_TYPE	editor/php/JSON.php	/^define('SERVICES_JSON_LOOSE_TYPE', 16);$/;"	d
+SERVICES_JSON_SLICE	editor/php/JSON.php	/^define('SERVICES_JSON_SLICE',   1);$/;"	d
+SERVICES_JSON_SUPPRESS_ERRORS	editor/php/JSON.php	/^define('SERVICES_JSON_SUPPRESS_ERRORS', 32);$/;"	d
+SWFUpload	editor/plugins/multiimage/multiimage.js	/^	SWFUpload = function (settings) {$/;"	c
+SWFUpload	editor/plugins/multiimage/multiimage.js	/^var SWFUpload;$/;"	v
+SWFUpload.BUTTON_ACTION.SELECT_FILE	editor/plugins/multiimage/multiimage.js	/^	SELECT_FILE  : -100,$/;"	p
+SWFUpload.CURSOR.ARROW	editor/plugins/multiimage/multiimage.js	/^	ARROW : -1,$/;"	p
+SWFUpload.FILE_STATUS.QUEUED	editor/plugins/multiimage/multiimage.js	/^	QUEUED		 : -1,$/;"	p
+SWFUpload.QUEUE_ERROR.QUEUE_LIMIT_EXCEEDED	editor/plugins/multiimage/multiimage.js	/^	QUEUE_LIMIT_EXCEEDED	  		: -100,$/;"	p
+SWFUpload.UPLOAD_ERROR.HTTP_ERROR	editor/plugins/multiimage/multiimage.js	/^	HTTP_ERROR				  		: -200,$/;"	p
+SWFUpload.WINDOW_MODE.OPAQUE	editor/plugins/multiimage/multiimage.js	/^	OPAQUE : "opaque"$/;"	p
+SWFUpload.WINDOW_MODE.TRANSPARENT	editor/plugins/multiimage/multiimage.js	/^	TRANSPARENT : "transparent",$/;"	p
+SWFUpload.WINDOW_MODE.WINDOW	editor/plugins/multiimage/multiimage.js	/^	WINDOW : "window",$/;"	p
+SWFUpload.initSWFUpload	editor/plugins/multiimage/multiimage.js	/^SWFUpload.prototype.initSWFUpload = function (settings) {$/;"	m
+Services_JSON	editor/php/JSON.php	/^    function Services_JSON($use = 0)$/;"	f
+Services_JSON	editor/php/JSON.php	/^class Services_JSON$/;"	c
+Services_JSON_Error	editor/php/JSON.php	/^        function Services_JSON_Error($message = 'unknown error', $code = null,$/;"	f
+Services_JSON_Error	editor/php/JSON.php	/^    class Services_JSON_Error extends PEAR_Error$/;"	c
+Services_JSON_Error	editor/php/JSON.php	/^    class Services_JSON_Error$/;"	c
+Validation	class/Validation.class.php	/^	class Validation{$/;"	c
+Validator.Require	js/validator.js	/^Require : \/.+\/,$/;"	p
+_VERSION	editor/kindeditor.js	/^var _VERSION = '4.1.1 (2012-06-10)',$/;"	v
+__construct	class/Validation.class.php	/^		function __construct($width,$height,$codeNum){$/;"	f
+__destruct	class/Validation.class.php	/^		function __destruct(){$/;"	f
+_addUnit	editor/kindeditor.js	/^function _addUnit(val, unit) {$/;"	f
+_each	editor/kindeditor.js	/^function _each(obj, fn) {$/;"	f
+_inArray	editor/kindeditor.js	/^function _inArray(val, arr) {$/;"	f
+_inString	editor/kindeditor.js	/^function _inString(val, str, delimiter) {$/;"	f
+_isArray	editor/kindeditor.js	/^function _isArray(val) {$/;"	f
+_isFunction	editor/kindeditor.js	/^function _isFunction(val) {$/;"	f
+_removeUnit	editor/kindeditor.js	/^function _removeUnit(val) {$/;"	f
+_trim	editor/kindeditor.js	/^function _trim(str) {$/;"	f
+addFriend	friend.php	/^				$addFriend = array();$/;"	v
+afterCreate	editor/php/demo.php	/^				afterCreate : function() {$/;"	j
+alert	editor/php/upload_json.php	/^function alert($msg) {$/;"	f
+arr	editor/php/JSON.php	/^                        $arr = array();$/;"	v
+art	article_detail.php	/^			$art = array();$/;"	v
+art_index	index.php	/^							$art_index = array();$/;"	v
+article	article_post.php	/^				$article = array();$/;"	v
+ascii	editor/php/JSON.php	/^                $ascii = '';$/;"	v
+back_checkLogin	js/reg.ajax.js	/^	function back_checkLogin(){$/;"	f
+bb	editor/kindeditor-min.js	/^\/* KindEditor 4.1.1 (2012-06-10), Copyright (C) kindsoft.net, Licence: http:\/\/www.kindsoft.net\/license.php *\/(function(z,k){function V(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Array]"}function bb(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Function]"}function L(a,b){for(var c=0,d=b.length;c<d;c++)if(a===b[c])return c;return-1}function n(a,b){if(V(a))for(var c=0,d=a.length;c<d;c++){if(b.call(a[c],c,a[c])===!1)break}else for(c in a)if(a.hasOwnProperty(c)&&b.call(a[c],c,a[c])===!1)break}function A(a){return a.replace(\/(?:^[ \\t\\n\\r]+)|(?:[ \\t\\n\\r]+$)\/g,$/;"	f
+bb.L	editor/kindeditor-min.js	/^\/* KindEditor 4.1.1 (2012-06-10), Copyright (C) kindsoft.net, Licence: http:\/\/www.kindsoft.net\/license.php *\/(function(z,k){function V(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Array]"}function bb(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Function]"}function L(a,b){for(var c=0,d=b.length;c<d;c++)if(a===b[c])return c;return-1}function n(a,b){if(V(a))for(var c=0,d=a.length;c<d;c++){if(b.call(a[c],c,a[c])===!1)break}else for(c in a)if(a.hasOwnProperty(c)&&b.call(a[c],c,a[c])===!1)break}function A(a){return a.replace(\/(?:^[ \\t\\n\\r]+)|(?:[ \\t\\n\\r]+$)\/g,$/;"	f
+bb.n	editor/kindeditor-min.js	/^\/* KindEditor 4.1.1 (2012-06-10), Copyright (C) kindsoft.net, Licence: http:\/\/www.kindsoft.net\/license.php *\/(function(z,k){function V(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Array]"}function bb(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Function]"}function L(a,b){for(var c=0,d=b.length;c<d;c++)if(a===b[c])return c;return-1}function n(a,b){if(V(a))for(var c=0,d=a.length;c<d;c++){if(b.call(a[c],c,a[c])===!1)break}else for(c in a)if(a.hasOwnProperty(c)&&b.call(a[c],c,a[c])===!1)break}function A(a){return a.replace(\/(?:^[ \\t\\n\\r]+)|(?:[ \\t\\n\\r]+$)\/g,$/;"	f
+bgcolor	class/Validation.class.php	/^			$bgcolor=imagecolorallocate($this->image,rand(220,255),rand(220,255),rand(220,255));$/;"	v
+borderColor	class/Validation.class.php	/^			$borderColor=imagecolorallocate($this->image,0,0,0);$/;"	v
+bytes	editor/php/JSON.php	/^        $bytes = (ord($utf16{0}) << 8) | ord($utf16{1});$/;"	v
+chFaceImg	js/chface.js	/^	function chFaceImg(alt){$/;"	f
+changeCode.onclick	js/login.js	/^		changeCode.onclick = function (){$/;"	f
+changeSex	member_modify.php	/^			function changeSex($sex){$/;"	f
+char	class/Validation.class.php	/^				$char=$code{rand(0,strlen($code)-1)};$/;"	v
+char	editor/php/JSON.php	/^                            $char = pack('C*', $ord_var_c, ord($var{$c + 1}));$/;"	v
+char	editor/php/JSON.php	/^                            $char = pack('C*', $ord_var_c,$/;"	v
+checkAnswer	includes/reg.func.php	/^	function checkAnswer($question,$answer,$min,$max){$/;"	f
+checkCode	class/Validation.class.php	/^			$this->checkCode=$this->setCheckCode();$/;"	v
+checkCode	class/Validation.class.php	/^		private $checkCode;$/;"	v
+checkEmail	includes/reg.func.php	/^	function checkEmail($email){$/;"	f
+checkEmailModify	includes/modify.inc.php	/^	function checkEmailModify($email){$/;"	f
+checkLevel	includes/func.inc.php	/^	function checkLevel($level){$/;"	f
+checkLogin	js/reg.ajax.js	/^	function checkLogin(obj){$/;"	f
+checkPass	includes/reg.func.php	/^	function checkPass($userPass,$confirmPass,$min,$max){$/;"	f
+checkPassModify	includes/modify.inc.php	/^	function checkPassModify($userPass,$min,$max){$/;"	f
+checkQQ	includes/reg.func.php	/^	function checkQQ($qq){$/;"	f
+checkQQModify	includes/modify.inc.php	/^	function checkQQModify($qq){$/;"	f
+checkQuestion	includes/reg.func.php	/^	function checkQuestion($question,$answer,$min,$max){$/;"	f
+checkSite	includes/reg.func.php	/^	function checkSite($site){$/;"	f
+checkSiteModify	includes/modify.inc.php	/^	function checkSiteModify($site){$/;"	f
+checkUniqid	includes/func.inc.php	/^	function checkUniqid($dbUniqid,$cookieUniqid,$url){$/;"	f
+checkUniqid2	includes/reg.func.php	/^	function checkUniqid2($startUniqid,$endUniqid){$/;"	f
+checkUser	includes/reg.func.php	/^	function checkUser($userStr,$min,$max){$/;"	f
+chkall.onclick	js/message_checked.js	/^		chkall.onclick = function (){$/;"	f
+chrs	editor/php/JSON.php	/^                                $chrs = substr_replace($chrs, ' ', $i, 1);$/;"	v
+chrs	editor/php/JSON.php	/^                    $chrs = $this->reduce_string($chrs);$/;"	v
+chrs	editor/php/JSON.php	/^                    $chrs = substr($str, 1, -1);$/;"	v
+click	editor/examples/custom-plugin.html	/^				function click(value) {$/;"	f
+click	editor/examples/total.html	/^				function click(value) {$/;"	f
+cmp_func	editor/php/file_manager_json.php	/^function cmp_func($a, $b) {$/;"	f
+code	class/Validation.class.php	/^			$code="23456789abcdefghijkmnpqrstuvwxyzABCDEFGHIJKMNPQRSTUVWXYZ";$/;"	v
+code	editor/php/JSON.php	/^        function Services_JSON_Error($message = 'unknown error', $code = null,$/;"	v
+code	editor/php/JSON.php	/^    function isError($data, $code = null)$/;"	v
+code	includes/image.inc.php	/^	$code = new Validation(75,25,4);$/;"	v
+codeNum	class/Validation.class.php	/^			$this->codeNum=$codeNum;$/;"	v
+codeNum	class/Validation.class.php	/^		private $codeNum;$/;"	v
+codeimg.onclick	js/article_detail.js	/^			codeimg.onclick = function (){$/;"	f
+codeimg.onclick	js/message.js	/^		codeimg.onclick = function (){$/;"	f
+color	class/Validation.class.php	/^				$color=imagecolorallocate($this->image,rand(0,255),rand(0,255),rand(0,255));$/;"	v
+color	class/Validation.class.php	/^				$color=imagecolorallocate($this->image,rand(100,200),rand(100,200),rand(100,200));$/;"	v
+comment	article_detail.php	/^				$comment = array();	$/;"	v
+conn	includes/CopyOfconn.inc.php	/^	$conn = @mysql_connect(DB_HOST,DB_USER,DB_PASS) or die('数据库连接失败!');$/;"	v
+conn	includes/conn.inc.php	/^	$conn = @mysql_connect(DB_HOST,DB_USER,DB_PASS) or die('数据库连接失败!');$/;"	v
+console.log	editor/kindeditor.js	/^	console.log = function () {};$/;"	f
+content	friend_list.php	/^								\/\/		$content = $rs['tc_content'];$/;"	v
+content	friend_list.php	/^								\/\/		$content = '<strong>'.$rs['tc_content'].'<\/strong>';$/;"	v
+content	message_list.php	/^										$content = $rs['tc_content'];$/;"	v
+content	message_list.php	/^										$content = '<strong>'.$rs['tc_content'].'<\/strong>';$/;"	v
+counter	article_detail.php	/^						$counter = mysql_num_rows($query);		\/\/总记录条数$/;"	v
+counter	blog.php	/^	$counter = mysql_num_rows($query);		\/\/总记录条数$/;"	v
+counter	flower_list.php	/^			$counter = mysql_num_rows($query);		\/\/总记录条数$/;"	v
+counter	friend_list.php	/^			$counter = mysql_num_rows($query);		\/\/总记录条数$/;"	v
+counter	index.php	/^	$counter = mysql_num_rows($query);		\/\/总记录条数$/;"	v
+counter	message_list.php	/^			$counter = mysql_num_rows($query);		\/\/总记录条数$/;"	v
+createImage	class/Validation.class.php	/^		private function createImage(){$/;"	f
+current_dir_path	editor/php/file_manager_json.php	/^	$current_dir_path = $_GET['path'];$/;"	v
+current_dir_path	editor/php/file_manager_json.php	/^	$current_dir_path = '';$/;"	v
+current_path	editor/php/file_manager_json.php	/^	$current_path = realpath($root_path) . '\/' . $_GET['path'];$/;"	v
+current_path	editor/php/file_manager_json.php	/^	$current_path = realpath($root_path) . '\/';$/;"	v
+current_url	editor/php/file_manager_json.php	/^	$current_url = $root_url . $_GET['path'];$/;"	v
+current_url	editor/php/file_manager_json.php	/^	$current_url = $root_url;$/;"	v
+decode	editor/php/JSON.php	/^    function decode($str)$/;"	f
+delid	flower_mutil_del.php	/^			$delid = implode(',', $_POST['checkbox']);$/;"	v
+delid	flower_mutil_del.php	/^		\/\/	$delid = array();$/;"	v
+delid	friend_mutil_del.php	/^			$delid = implode(',', $_POST['checkbox']);$/;"	v
+delid	friend_mutil_del.php	/^		\/\/	$delid = array();$/;"	v
+delid	message_max_del.php	/^			$delid = implode(',', $_POST['checkbox']);$/;"	v
+delid	message_max_del.php	/^		\/\/	$delid = array();$/;"	v
+delim	editor/php/JSON.php	/^                    $delim = substr($str, 0, 1);$/;"	v
+dir_name	editor/php/file_manager_json.php	/^$dir_name = empty($_GET['dir']) ? '' : trim($_GET['dir']);$/;"	v
+dir_name	editor/php/upload_json.php	/^	$dir_name = empty($_GET['dir']) ? 'image' : trim($_GET['dir']);$/;"	v
+displayImage	class/Validation.class.php	/^		function displayImage(){$/;"	f
+disturbColor	class/Validation.class.php	/^		private function disturbColor(){$/;"	f
+disturbNum	class/Validation.class.php	/^				$this->disturbNum=$num;$/;"	v
+disturbNum	class/Validation.class.php	/^				$this->disturbNum=250-$codeNum;$/;"	v
+disturbNum	class/Validation.class.php	/^		private $disturbNum;$/;"	v
+e	editor/plugins/code/prettify.js	/^(function(){function L(a){function m(a){var f=a.charCodeAt(0);if(f!==92)return f;var b=a.charAt(1);return(f=r[b])?f:"0"<=b&&b<="7"?parseInt(a.substring(1),8):b==="u"||b==="x"?parseInt(a.substring(2),16):a.charCodeAt(1)}function e(a){if(a<32)return(a<16?"\\\\x0":"\\\\x")+a.toString(16);a=String.fromCharCode(a);if(a==="\\\\"||a==="-"||a==="["||a==="]")a="\\\\"+a;return a}function h(a){for(var f=a.substring(1,a.length-1).match(\/\\\\u[\\dA-Fa-f]{4}|\\\\x[\\dA-Fa-f]{2}|\\\\[0-3][0-7]{0,2}|\\\\[0-7]{1,2}|\\\\[\\S\\s]|[^\\\\]\/g),a=$/;"	f
+elements	editor/php/JSON.php	/^                $elements = array_map(array($this, 'encode'), $var);$/;"	v
+encode	editor/php/JSON.php	/^    function encode($var)$/;"	f
+encoded_value	editor/php/JSON.php	/^        $encoded_value = $this->encode($value);$/;"	v
+error	editor/php/upload_json.php	/^			$error = 'File upload stopped by extension。';$/;"	v
+error	editor/php/upload_json.php	/^			$error = '写文件到硬盘出错。';$/;"	v
+error	editor/php/upload_json.php	/^			$error = '图片只有部分被上传。';$/;"	v
+error	editor/php/upload_json.php	/^			$error = '找不到临时目录。';$/;"	v
+error	editor/php/upload_json.php	/^			$error = '未知错误。';$/;"	v
+error	editor/php/upload_json.php	/^			$error = '请选择图片。';$/;"	v
+error	editor/php/upload_json.php	/^			$error = '超过php.ini允许的大小。';$/;"	v
+error	editor/php/upload_json.php	/^			$error = '超过表单允许的大小。';$/;"	v
+ext_arr	editor/php/file_manager_json.php	/^$ext_arr = array('gif', 'jpg', 'jpeg', 'png', 'bmp');$/;"	v
+ext_arr	editor/php/upload_json.php	/^$ext_arr = array($/;"	v
+faceadd.onclick	js/face.js	/^		faceadd.onclick = function (){$/;"	f
+faceimg.item	js/chface.js	/^			faceimg.item(i).onclick = function (){$/;"	f
+faceimg.onclick	js/face.js	/^		faceimg.onclick = function (){	\/\/匿名函数$/;"	f
+faceimg.onclick	js/modify.js	/^		faceimg.onclick = function (){$/;"	f
+file	editor/php/file_manager_json.php	/^		$file = $current_path . $filename;$/;"	v
+file	includes/func.inc.php	/^		$file = 'userInfo.xml';$/;"	v
+file	newfile.php	/^	$file = 'userInfo11.xml';$/;"	v
+file_ext	editor/php/file_manager_json.php	/^			$file_ext = strtolower(array_pop(explode('.', trim($file))));$/;"	v
+file_ext	editor/php/upload_json.php	/^	$file_ext = array_pop($temp_arr);$/;"	v
+file_ext	editor/php/upload_json.php	/^	$file_ext = strtolower($file_ext);$/;"	v
+file_ext	editor/php/upload_json.php	/^	$file_ext = trim($file_ext);$/;"	v
+file_list	editor/php/file_manager_json.php	/^$file_list = array();$/;"	v
+file_name	editor/php/upload_json.php	/^	$file_name = $_FILES['imgFile']['name'];$/;"	v
+file_path	editor/php/upload_json.php	/^	$file_path = $save_path . $new_file_name;$/;"	v
+file_size	editor/php/upload_json.php	/^	$file_size = $_FILES['imgFile']['size'];$/;"	v
+file_url	editor/php/upload_json.php	/^	$file_url = $save_url . $new_file_name;$/;"	v
+flower	js/article_detail.js	/^			flower[i].onclick = function (){$/;"	f
+flower	js/blog.js	/^			flower[i].onclick = function (){$/;"	f
+flower_count	flower_list.php	/^							$flower_count = '';$/;"	v
+fontColor	class/Validation.class.php	/^				$fontColor=imagecolorallocate($this->image,rand(0,110),rand(0,110),rand(0,110));$/;"	v
+fontSize	class/Validation.class.php	/^				$fontSize=rand(3,5);$/;"	v
+for	editor/php/JSON.php	/^    * array-walking function for use in generating JSON-formatted name-value pairs$/;"	f
+form.onsubmit	js/message_checked.js	/^		form.onsubmit = function(){$/;"	f
+form.onsubmit	js/modify.js	/^		form.onsubmit = function (){$/;"	f
+fp	includes/func.inc.php	/^		$fp = fopen($file, w);$/;"	v
+fp	newfile.php	/^	$fp = @fopen($file, w);$/;"	v
+friend	js/article_detail.js	/^			friend[i].onclick = function (){$/;"	f
+friend	js/blog.js	/^			friend[i].onclick = function (){$/;"	f
+getCheckCode	class/Validation.class.php	/^		function getCheckCode(){$/;"	f
+getElementsByClassName	js/article_detail.js	/^	function getElementsByClassName(className,tagName){  $/;"	f
+getParam	editor/examples/total.html	/^			function getParam(url, name) {$/;"	f
+h	editor/plugins/code/prettify.js	/^(function(){function L(a){function m(a){var f=a.charCodeAt(0);if(f!==92)return f;var b=a.charAt(1);return(f=r[b])?f:"0"<=b&&b<="7"?parseInt(a.substring(1),8):b==="u"||b==="x"?parseInt(a.substring(2),16):a.charCodeAt(1)}function e(a){if(a<32)return(a<16?"\\\\x0":"\\\\x")+a.toString(16);a=String.fromCharCode(a);if(a==="\\\\"||a==="-"||a==="["||a==="]")a="\\\\"+a;return a}function h(a){for(var f=a.substring(1,a.length-1).match(\/\\\\u[\\dA-Fa-f]{4}|\\\\x[\\dA-Fa-f]{2}|\\\\[0-3][0-7]{0,2}|\\\\[0-7]{1,2}|\\\\[\\S\\s]|[^\\\\]\/g),a=$/;"	f
+height	class/Validation.class.php	/^			$this->height=$height;$/;"	v
+height	class/Validation.class.php	/^		private $height;$/;"	v
+his	article_detail.php	/^							$his = '他';$/;"	v
+his	article_detail.php	/^							$his = '她';$/;"	v
+his	article_detail.php	/^				$his = '他';$/;"	v
+his	article_detail.php	/^				$his = '她';$/;"	v
+htmlData	editor/php/demo.php	/^			$htmlData = $_POST['content1'];$/;"	v
+htmlData	editor/php/demo.php	/^			$htmlData = stripslashes($_POST['content1']);$/;"	v
+htmlData	editor/php/demo.php	/^	$htmlData = '';$/;"	v
+i	editor/php/file_manager_json.php	/^	$i = 0;$/;"	v
+image	class/Validation.class.php	/^			$this->image=imagecreatetruecolor($this->width,$this->height);$/;"	v
+image	class/Validation.class.php	/^		private $image;$/;"	v
+img	friend_list.php	/^								\/\/		$img='<img src="images\/noread.gif" alt="已读" title="已读" \/>';$/;"	v
+img	friend_list.php	/^								\/\/		$img='<img src="images\/read.gif" alt="未读" title="未读" \/>';\/\/$/;"	v
+img	message_list.php	/^										$img='<img src="images\/noread.gif" alt="已读" title="已读" \/>';$/;"	v
+img	message_list.php	/^										$img='<img src="images\/read.gif" alt="未读" title="未读" \/>';$/;"	v
+info	includes/func.inc.php	/^		$info = array();		$/;"	v
+infoModify	member_modify.php	/^				$infoModify = array();$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "<?xml version=\\"1.0\\" encoding=\\"utf-8\\"?>\\r\\n";$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "<\/vip>\\r\\n";$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "<vip>\\r\\n";$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "\\t<email>{$userInfo['email']}<\/email>\\r\\n";$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "\\t<face>{$userInfo['face']}<\/face>\\r\\n";$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "\\t<id>{$userInfo['id']}<\/id>\\r\\n";$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "\\t<sex>{$userInfo['sex']}<\/sex>\\r\\n";$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "\\t<site>{$userInfo['site']}<\/site>\\r\\n";		$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "\\t<username>{$userInfo['username']}<\/username>\\r\\n";$/;"	v
+infoString	includes/func.inc.php	/^			$infoString = "\\t<who>{$userInfo['who']}<\/who>\\r\\n";$/;"	v
+infoString	newfile.php	/^		$infoString = "<?xml version=\\"1.0\\" encoding=\\"utf-8\\"?>\\r\\n";$/;"	v
+infoString	newfile.php	/^		$infoString = "<\/vip>\\r\\n";$/;"	v
+infoString	newfile.php	/^		$infoString = "<vip>\\r\\n";$/;"	v
+infoString	newfile.php	/^		$infoString = "\\t<id>{$userInfo['id']}<\/id>\\r\\n";$/;"	v
+infoString	newfile.php	/^		$infoString = "\\t<sex>{$userInfo['sex']}<\/sex>\\r\\n";$/;"	v
+infoString	newfile.php	/^		$infoString = "\\t<username>{$userInfo['username']}<\/username>\\r\\n";$/;"	v
+initialize	editor/plugins/baidumap/map.html	/^			function initialize() {$/;"	f
+initialize	editor/plugins/map/map.html	/^		function initialize() {$/;"	f
+input	editor/php/JSON.php	/^ * $input = file_get_contents('php:\/\/input', 1000000);$/;"	v
+isError	editor/php/JSON.php	/^    function isError($data, $code = null)$/;"	f
+json	editor/php/JSON.php	/^ * $json = new Services_JSON();$/;"	v
+json	editor/php/file_manager_json.php	/^$json = new Services_JSON();$/;"	v
+json	editor/php/upload_json.php	/^	$json = new Services_JSON();$/;"	v
+key	editor/php/JSON.php	/^                                    $key = $parts[1];$/;"	v
+key	editor/php/JSON.php	/^                                    $key = $this->decode($parts[1]);$/;"	v
+key	includes/func.inc.php	/^			foreach ($string as $key => $value) {$/;"	v
+loginInfo	login.php	/^			$loginInfo = array();$/;"	v
+loginStatus	includes/func.inc.php	/^	function loginStatus(){$/;"	f
+lou	article_detail.php	/^						$lou = 2;$/;"	v
+m	editor/php/JSON.php	/^                $m = array();$/;"	v
+ma.C	editor/kindeditor-min.js	/^"")}function ma(a,b,c){c=c===k?",":c;return(c+b+c).indexOf(c+a+c)>=0}function q(a){return a&&\/^\\d+$\/.test(a)?a+"px":a}function t(a){var b;return a&&(b=\/(\\d+)\/.exec(a))?parseInt(b[1],10):0}function C(a){return a.replace(\/&\/g,"&amp;").replace(\/<\/g,"&lt;").replace(\/>\/g,"&gt;").replace(\/"\/g,"&quot;")}function Ea(a){return a.replace(\/&lt;\/g,"<").replace(\/&gt;\/g,">").replace(\/&quot;\/g,'"').replace(\/&amp;\/g,"&")}function ca(a){var b=a.split("-"),a="";n(b,function(b,d){a+=b>0?d.charAt(0).toUpperCase()+d.substr(1):$/;"	f
+ma.q	editor/kindeditor-min.js	/^"")}function ma(a,b,c){c=c===k?",":c;return(c+b+c).indexOf(c+a+c)>=0}function q(a){return a&&\/^\\d+$\/.test(a)?a+"px":a}function t(a){var b;return a&&(b=\/(\\d+)\/.exec(a))?parseInt(b[1],10):0}function C(a){return a.replace(\/&\/g,"&amp;").replace(\/<\/g,"&lt;").replace(\/>\/g,"&gt;").replace(\/"\/g,"&quot;")}function Ea(a){return a.replace(\/&lt;\/g,"<").replace(\/&gt;\/g,">").replace(\/&quot;\/g,'"').replace(\/&amp;\/g,"&")}function ca(a){var b=a.split("-"),a="";n(b,function(b,d){a+=b>0?d.charAt(0).toUpperCase()+d.substr(1):$/;"	f
+ma.t	editor/kindeditor-min.js	/^"")}function ma(a,b,c){c=c===k?",":c;return(c+b+c).indexOf(c+a+c)>=0}function q(a){return a&&\/^\\d+$\/.test(a)?a+"px":a}function t(a){var b;return a&&(b=\/(\\d+)\/.exec(a))?parseInt(b[1],10):0}function C(a){return a.replace(\/&\/g,"&amp;").replace(\/<\/g,"&lt;").replace(\/>\/g,"&gt;").replace(\/"\/g,"&quot;")}function Ea(a){return a.replace(\/&lt;\/g,"<").replace(\/&gt;\/g,">").replace(\/&quot;\/g,'"').replace(\/&amp;\/g,"&")}function ca(a){var b=a.split("-"),a="";n(b,function(b,d){a+=b>0?d.charAt(0).toUpperCase()+d.substr(1):$/;"	f
+max_size	editor/php/upload_json.php	/^$max_size = 1000000;$/;"	v
+message	flower.php	/^			$message = array();$/;"	v
+message	friend.php	/^			$message = array();$/;"	v
+message	js/article_detail.js	/^			message[i].onclick = function (){$/;"	f
+message	js/blog.js	/^			message[i].onclick = function (){$/;"	f
+message	message.php	/^			$message = array();$/;"	v
+mode	editor/php/JSON.php	/^                                     $mode = null, $options = null, $userinfo = null)$/;"	v
+modify	article_modify.php	/^			$modify = array();$/;"	v
+moveup_dir_path	editor/php/file_manager_json.php	/^	$moveup_dir_path = '';$/;"	v
+moveup_dir_path	editor/php/file_manager_json.php	/^	$moveup_dir_path = preg_replace('\/(.*?)[^\\\/]+\\\/$\/', '$1', $current_dir_path);$/;"	v
+name_value	editor/php/JSON.php	/^    function name_value($name, $value)$/;"	f
+newUserInfo	index.php	/^	$newUserInfo = readUserInfoXml('userInfo.xml');$/;"	v
+new_file_name	editor/php/upload_json.php	/^	$new_file_name = date("YmdHis") . '_' . rand(10000, 99999) . '.' . $file_ext;$/;"	v
+newgdcode	js/article_detail.js	/^	function newgdcode(obj,url){$/;"	f
+newgdcode	js/message.js	/^	function newgdcode(obj,url){$/;"	f
+newgdcode	js/modify.js	/^	function newgdcode(obj,url){$/;"	f
+num	class/Validation.class.php	/^			$num=$width*$height\/10;$/;"	v
+obj	editor/php/JSON.php	/^                            $obj = array();$/;"	v
+obj	editor/php/JSON.php	/^                            $obj = new stdClass();$/;"	v
+openMessageWindow	js/article_detail.js	/^	function openMessageWindow(url,name,width,height){$/;"	f
+openMessageWindow	js/blog.js	/^	function openMessageWindow(url,name,width,height){$/;"	f
+ord_chrs_c	editor/php/JSON.php	/^                        $ord_chrs_c = ord($chrs{$c});$/;"	v
+ord_var_c	editor/php/JSON.php	/^                        case $ord_var_c == 0x08:$/;"	v
+ord_var_c	editor/php/JSON.php	/^                        case $ord_var_c == 0x09:$/;"	v
+ord_var_c	editor/php/JSON.php	/^                        case $ord_var_c == 0x0A:$/;"	v
+ord_var_c	editor/php/JSON.php	/^                        case $ord_var_c == 0x0C:$/;"	v
+ord_var_c	editor/php/JSON.php	/^                        case $ord_var_c == 0x0D:$/;"	v
+ord_var_c	editor/php/JSON.php	/^                        case $ord_var_c == 0x22:$/;"	v
+ord_var_c	editor/php/JSON.php	/^                        case $ord_var_c == 0x2F:$/;"	v
+ord_var_c	editor/php/JSON.php	/^                        case $ord_var_c == 0x5C:$/;"	v
+ord_var_c	editor/php/JSON.php	/^                    $ord_var_c = ord($var{$c});$/;"	v
+order	editor/php/file_manager_json.php	/^$order = empty($_GET['order']) ? 'name' : strtolower($_GET['order']);$/;"	v
+output	editor/php/JSON.php	/^ * $output = $json->encode($value);$/;"	v
+outputImage	class/Validation.class.php	/^		private function outputImage(){$/;"	f
+outputText	class/Validation.class.php	/^		private function outputText(){$/;"	f
+pag	article_detail.php	/^						$pag = ($page-1)*$pagelimit;$/;"	v
+pag	blog.php	/^	$pag = ($page-1)*$pagelimit;$/;"	v
+pag	flower_list.php	/^			$pag = ($page-1)*10;$/;"	v
+pag	friend_list.php	/^			$pag = ($page-1)*10;$/;"	v
+pag	index.php	/^	$pag = ($page-1)*$pagelimit;$/;"	v
+pag	message_list.php	/^			$pag = ($page-1)*10;$/;"	v
+page	article_detail.php	/^								$page = 1;$/;"	v
+page	article_detail.php	/^								$page = intval($_GET['page']);$/;"	v
+page	article_detail.php	/^							$page = $_GET['page'];$/;"	v
+page	article_detail.php	/^							$page = $pagenum;$/;"	v
+page	article_detail.php	/^							$page = 1;$/;"	v
+page	blog.php	/^			$page = 1;$/;"	v
+page	blog.php	/^			$page = intval($_GET['page']);$/;"	v
+page	blog.php	/^		$page = $_GET['page'];$/;"	v
+page	blog.php	/^		$page = $pagenum;$/;"	v
+page	blog.php	/^		$page = 1;$/;"	v
+page	flower_list.php	/^					$page = 1;$/;"	v
+page	flower_list.php	/^					$page = intval($_GET['page']);$/;"	v
+page	flower_list.php	/^				$page = $_GET['page'];$/;"	v
+page	flower_list.php	/^				$page = $pagenum;$/;"	v
+page	flower_list.php	/^				$page = 1;$/;"	v
+page	friend_list.php	/^					$page = 1;$/;"	v
+page	friend_list.php	/^					$page = intval($_GET['page']);$/;"	v
+page	friend_list.php	/^				$page = $_GET['page'];$/;"	v
+page	friend_list.php	/^				$page = $pagenum;$/;"	v
+page	friend_list.php	/^				$page = 1;$/;"	v
+page	index.php	/^			$page = 1;$/;"	v
+page	index.php	/^			$page = intval($_GET['page']);	\/\/Get the integer value of a variable$/;"	v
+page	index.php	/^		$page = $_GET['page'];$/;"	v
+page	index.php	/^		$page = $pagenum;$/;"	v
+page	index.php	/^		$page = 1;$/;"	v
+page	message_list.php	/^					$page = 1;$/;"	v
+page	message_list.php	/^					$page = intval($_GET['page']);$/;"	v
+page	message_list.php	/^				$page = $_GET['page'];$/;"	v
+page	message_list.php	/^				$page = $pagenum;$/;"	v
+page	message_list.php	/^				$page = 1;$/;"	v
+pageList	includes/func.inc.php	/^	function pageList($info,$lj,$pagenum,$page){$/;"	f
+pagelimit	article_detail.php	/^						$pagelimit = 10;	\/\/每分页显示10条数据$/;"	v
+pagelimit	blog.php	/^	$pagelimit = 10;	\/\/每分页显示10条数据$/;"	v
+pagelimit	flower_list.php	/^			$pagelimit = 10;	\/\/每分页显示10条数据$/;"	v
+pagelimit	friend_list.php	/^			$pagelimit = 10;	\/\/每分页显示10条数据$/;"	v
+pagelimit	index.php	/^	$pagelimit = 13;	\/\/每分页显示10条数据$/;"	v
+pagelimit	message_list.php	/^			$pagelimit = 10;	\/\/每分页显示10条数据$/;"	v
+pagenum	article_detail.php	/^							$pagenum = 1;	\/\/如果没有数据,默认第一页$/;"	v
+pagenum	article_detail.php	/^							$pagenum = ceil($counter\/$pagelimit);		\/\/总页数$/;"	v
+pagenum	blog.php	/^		$pagenum = 1;	\/\/如果没有数据,默认第一页$/;"	v
+pagenum	blog.php	/^		$pagenum = ceil($counter\/$pagelimit);		\/\/总页数$/;"	v
+pagenum	flower_list.php	/^				$pagenum = 1;	\/\/如果没有数据,默认第一页$/;"	v
+pagenum	flower_list.php	/^				$pagenum = ceil($counter\/$pagelimit);		\/\/总页数$/;"	v
+pagenum	friend_list.php	/^				$pagenum = 1;	\/\/如果没有数据,默认第一页$/;"	v
+pagenum	friend_list.php	/^				$pagenum = ceil($counter\/$pagelimit);		\/\/总页数$/;"	v
+pagenum	index.php	/^		$pagenum = 1;	\/\/如果没有数据,默认第一页$/;"	v
+pagenum	index.php	/^		$pagenum = ceil($counter\/$pagelimit);		\/\/总页数$/;"	v
+pagenum	message_list.php	/^				$pagenum = 1;	\/\/如果没有数据,默认第一页$/;"	v
+pagenum	message_list.php	/^				$pagenum = ceil($counter\/$pagelimit);		\/\/总页数$/;"	v
+parts	editor/php/JSON.php	/^                                $parts = array();$/;"	v
+php_path	editor/php/file_manager_json.php	/^$php_path = dirname(__FILE__) . '\/';$/;"	v
+php_path	editor/php/upload_json.php	/^$php_path = dirname(__FILE__) . '\/';$/;"	v
+php_url	editor/php/file_manager_json.php	/^$php_url = dirname($_SERVER['PHP_SELF']) . '\/';$/;"	v
+php_url	editor/php/upload_json.php	/^$php_url = dirname($_SERVER['PHP_SELF']) . '\/';$/;"	v
+post	js/article_detail.js	/^			post[i].onclick = function (){$/;"	f
+post	js/blog.js	/^			post[i].onclick = function (){$/;"	f
+properties	editor/php/JSON.php	/^                    $properties = array_map(array($this, 'name_value'),$/;"	v
+properties	editor/php/JSON.php	/^                $properties = array_map(array($this, 'name_value'),$/;"	v
+pushAlert	includes/func.inc.php	/^	function pushAlert($info){$/;"	f
+pushAlert2	includes/func.inc.php	/^	function pushAlert2($info){$/;"	f
+pushCloseWindow	includes/func.inc.php	/^	function pushCloseWindow($info){$/;"	f
+pushLocation	includes/func.inc.php	/^	function pushLocation($url){$/;"	f
+pushLocation2	includes/func.inc.php	/^	function pushLocation2($info,$url){$/;"	f
+pushUniqid	includes/func.inc.php	/^	function pushUniqid(){$/;"	f
+q	editor/plugins/code/prettify.js	/^var q=null;window.PR_SHOULD_USE_CONTINUATION=!0;$/;"	v
+query	active.php	/^		$query = mysql_query($sql);$/;"	v
+query	ajax.check.username.php	/^	$query = mysql_query($sql);$/;"	v
+query	article_detail.php	/^						$query = mysql_query($sql);$/;"	v
+query	article_detail.php	/^			$query = mysql_query($sql);$/;"	v
+query	article_modify.php	/^			$query = mysql_query($sql);$/;"	v
+query	article_post.php	/^			$query = mysql_query($sql);$/;"	v
+query	blog.php	/^	$query = mysql_query($sql);$/;"	v
+query	flower.php	/^			$query = mysql_query($sql);$/;"	v
+query	flower_list.php	/^			$query = mysql_query($sql);		$/;"	v
+query	flower_list.php	/^			$query = mysql_query($sql);$/;"	v
+query	flower_list.php	/^		$query = mysql_query($sql);$/;"	v
+query	flower_mutil_del.php	/^	$query = mysql_query($sql);$/;"	v
+query	friend.php	/^			$query = mysql_query($sql);$/;"	v
+query	friend_check.php	/^	$query = mysql_query($sql);$/;"	v
+query	friend_list.php	/^			$query = mysql_query($sql);		$/;"	v
+query	friend_list.php	/^			$query = mysql_query($sql);$/;"	v
+query	friend_list.php	/^		$query = mysql_query($sql);$/;"	v
+query	friend_mutil_del.php	/^	$query = mysql_query($sql);$/;"	v
+query	includes/common.inc.php	/^	$query = mysql_query($sql);$/;"	v
+query	index.php	/^	$query = mysql_query($sql);$/;"	v
+query	login.php	/^			$query = mysql_query($sql);$/;"	v
+query	member.php	/^		$query = mysql_query($sql);$/;"	v
+query	member_modify.php	/^				$query = mysql_query($sql);$/;"	v
+query	member_modify.php	/^			$query = mysql_query($sql);$/;"	v
+query	member_modify.php	/^		$query = mysql_query($sql);$/;"	v
+query	message.php	/^			$query = mysql_query($sql);$/;"	v
+query	message_detail.php	/^			$query = mysql_query($sql);$/;"	v
+query	message_detail.php	/^		$query = mysql_query($sql);$/;"	v
+query	message_list.php	/^			$query = mysql_query($sql);		$/;"	v
+query	message_list.php	/^			$query = mysql_query($sql);$/;"	v
+query	message_list.php	/^		$query = mysql_query($sql);$/;"	v
+query	message_max_del.php	/^	$query = mysql_query($sql);$/;"	v
+query	message_singal_del.php	/^	$query = mysql_query($sql);$/;"	v
+query	reg.php	/^			$query = mysql_query($sql);$/;"	v
+queryInfo	article_detail.php	/^							$queryInfo = mysql_query($sql);$/;"	v
+question	includes/reg.func.php	/^		$question = trim($question);$/;"	v
+quoteLou	article_detail.php	/^								$quoteLou = '[<a href="#reid" name="quoteuser" title="QUOTE:第'.($lou+(($page-1)*$pagelimit)).'楼的'.$rs['tc_art_author'].'的帖子">引用<\/a>]&nbsp;&nbsp;';$/;"	v
+quoteLou	article_detail.php	/^						$quoteLou = '';		\/\/引用楼层$/;"	v
+reAuthor	article_detail.php	/^		$reAuthor = '[<a href="#reid" name="reauthor" title="RE:'.$art['title'].'">回复<\/a>]';	\/\/回复主题贴发贴人$/;"	v
+reLou	article_detail.php	/^								$reLou = '[<a href="#reid" name="reuser" title="RE:第'.($lou+(($page-1)*$pagelimit)).'楼的'.$rs['tc_art_author'].'的帖子">回复<\/a>]&nbsp;&nbsp;';$/;"	v
+reLou	article_detail.php	/^						$reLou = '';	\/\/回复楼层$/;"	v
+readUserInfoXml	includes/func.inc.php	/^	function readUserInfoXml($file){$/;"	f
+reauthor	js/article_detail.js	/^			reauthor[0].onclick = function (){$/;"	f
+reduce_string	editor/php/JSON.php	/^    function reduce_string($str)$/;"	f
+regXml	includes/func.inc.php	/^	function regXml($userInfo){$/;"	f
+regXml	newfile.php	/^function regXml($userInfo){$/;"	f
+result	editor/php/file_manager_json.php	/^$result = array();$/;"	v
+return	editor/kindeditor-min.js	/^\/* KindEditor 4.1.1 (2012-06-10), Copyright (C) kindsoft.net, Licence: http:\/\/www.kindsoft.net\/license.php *\/(function(z,k){function V(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Array]"}function bb(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Function]"}function L(a,b){for(var c=0,d=b.length;c<d;c++)if(a===b[c])return c;return-1}function n(a,b){if(V(a))for(var c=0,d=a.length;c<d;c++){if(b.call(a[c],c,a[c])===!1)break}else for(c in a)if(a.hasOwnProperty(c)&&b.call(a[c],c,a[c])===!1)break}function A(a){return a.replace(\/(?:^[ \\t\\n\\r]+)|(?:[ \\t\\n\\r]+$)\/g,$/;"	c
+return	editor/kindeditor.js	/^	return Object.prototype.toString.call(val) === '[object Array]';$/;"	c
+return.toString	editor/kindeditor-min.js	/^\/* KindEditor 4.1.1 (2012-06-10), Copyright (C) kindsoft.net, Licence: http:\/\/www.kindsoft.net\/license.php *\/(function(z,k){function V(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Array]"}function bb(a){if(!a)return!1;return Object.prototype.toString.call(a)==="[object Function]"}function L(a,b){for(var c=0,d=b.length;c<d;c++)if(a===b[c])return c;return-1}function n(a,b){if(V(a))for(var c=0,d=a.length;c<d;c++){if(b.call(a[c],c,a[c])===!1)break}else for(c in a)if(a.hasOwnProperty(c)&&b.call(a[c],c,a[c])===!1)break}function A(a){return a.replace(\/(?:^[ \\t\\n\\r]+)|(?:[ \\t\\n\\r]+$)\/g,$/;"	m
+return.toString	editor/kindeditor.js	/^	return Object.prototype.toString.call(val) === '[object Array]';$/;"	m
+return.toString	editor/kindeditor.js	/^	return Object.prototype.toString.call(val) === '[object Function]';$/;"	m
+reuser	js/article_detail.js	/^			reuser[i].onclick = function (){$/;"	f
+root_path	editor/php/file_manager_json.php	/^$root_path = $php_path . '..\/attached\/';$/;"	v
+root_url	editor/php/file_manager_json.php	/^$root_url = $php_url . '..\/attached\/';$/;"	v
+rs	ajax.check.username.php	/^	$rs = mysql_fetch_array($query);$/;"	v
+rs	article_detail.php	/^						$rs = mysql_fetch_array($query);$/;"	v
+rs	article_detail.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	article_modify.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	article_post.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	flower.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	flower_list.php	/^		$rs = mysql_fetch_array($query);$/;"	v
+rs	flower_mutil_del.php	/^	$rs = mysql_fetch_array($query);$/;"	v
+rs	friend.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	friend_check.php	/^	$rs = mysql_fetch_array($query);$/;"	v
+rs	friend_list.php	/^		$rs = mysql_fetch_array($query);$/;"	v
+rs	friend_mutil_del.php	/^	$rs = mysql_fetch_array($query);$/;"	v
+rs	includes/common.inc.php	/^	$rs = mysql_fetch_array($query);$/;"	v
+rs	login.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	member.php	/^		$rs = mysql_fetch_array($query);$/;"	v
+rs	member_modify.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	member_modify.php	/^		$rs = mysql_fetch_array($query);$/;"	v
+rs	message.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	message_detail.php	/^			$rs = mysql_fetch_array($query);$/;"	v
+rs	message_detail.php	/^		$rs = mysql_fetch_array($query);$/;"	v
+rs	message_list.php	/^		$rs = mysql_fetch_array($query);$/;"	v
+rs	message_max_del.php	/^	$rs = mysql_fetch_array($query);$/;"	v
+rs	message_singal_del.php	/^	$rs = mysql_fetch_array($query);$/;"	v
+rs	reg.php	/^			$rs = mysql_fetch_array($query);		$/;"	v
+rsInfo	article_detail.php	/^							$rsInfo = mysql_fetch_array($queryInfo);$/;"	v
+runTime	includes/func.inc.php	/^	function runTime(){$/;"	f
+save_path	editor/php/upload_json.php	/^$save_path = $php_path . '..\/attached\/';$/;"	v
+save_path	editor/php/upload_json.php	/^$save_path = realpath($save_path) . '\/';$/;"	v
+save_url	editor/php/upload_json.php	/^$save_url = $php_url . '..\/attached\/';$/;"	v
+search	editor/plugins/baidumap/map.html	/^			function search(address) {$/;"	f
+search	editor/plugins/map/map.html	/^		function search(address) {$/;"	f
+sensitiveChar	includes/reg.func.php	/^		$sensitiveChar = "\/[<>\\\/\\'\\"\\ \\  ]\/";$/;"	v
+sentFlower	flower.php	/^				$sentFlower = array();$/;"	v
+sentMess	message.php	/^				$sentMess = array();$/;"	v
+setCheckCode	class/Validation.class.php	/^		private function setCheckCode(){$/;"	f
+setCookies	includes/func.inc.php	/^	function setCookies($username,$uniqid,$time){	\/\/登录模块调用$/;"	f
+shall	editor/php/JSON.php	/^     * @todo Ultimately, this class shall be descended from PEAR_Error$/;"	c
+slice	editor/php/JSON.php	/^                            $slice = substr($chrs, $top['where'], ($c - $top['where']));$/;"	v
+sql	active.php	/^			$sql = "update `tc_user` set `tc_active`=NULL where tc_active='{$_GET['active']}' limit 1";$/;"	v
+sql	active.php	/^		$sql = "select `tc_active` from `tc_user` where `tc_active`='{$_GET['active']}' limit 1";$/;"	v
+sql	ajax.check.username.php	/^	$sql = "select * from tc_user where tc_username='dreamk400'";$/;"	v
+sql	article_detail.php	/^							$sql = "SELECT `tc_id`,`tc_username`,`tc_sex`,`tc_face` FROM `tc_user` WHERE `tc_username`='{$rs['tc_art_author']}' LIMIT 1";$/;"	v
+sql	article_detail.php	/^						$sql = "SELECT `tc_art_author`,`tc_art_type`,`tc_art_title`,`tc_art_content`,`tc_comment_count`,`tc_sent_time` FROM `tc_article` WHERE `tc_reid`='{$_GET$/;"	v
+sql	article_detail.php	/^						$sql = "SELECT `tc_id` FROM `tc_article` WHERE `tc_reid`='{$_GET['id']}'";$/;"	v
+sql	article_detail.php	/^						$sql = "SELECT `tc_id`,`tc_sex`,`tc_face` FROM `tc_user` WHERE `tc_username`='{$_COOKIE['username']}' LIMIT 1";$/;"	v
+sql	article_detail.php	/^					$sql = "UPDATE `tc_article` SET `tc_comment_count`=`tc_comment_count`+1 WHERE `tc_id`='{$comment['reid']}'";$/;"	v
+sql	article_detail.php	/^				$sql = "INSERT INTO `tc_article`(`tc_reid`,`tc_art_author`,`tc_art_type`,`tc_art_title`,`tc_art_content`,`tc_sent_time`) VALUES('{$comment['reid']}','{$_COOKIE['username']}','{$comment['type']}','{$comment['title']}','{$comment['content']}',NOW())";$/;"	v
+sql	article_detail.php	/^			$sql = "SELECT `tc_id`,`tc_art_author`,`tc_art_type`,`tc_art_title`,`tc_art_content`,`tc_read_count`,`tc_comment_count`,`tc_sent_time`,`tc_modify_time` FROM `tc_article` WHERE `tc_id`='{$_GET$/;"	v
+sql	article_detail.php	/^			$sql = "SELECT `tc_id`,`tc_sex`,`tc_face` FROM `tc_user` WHERE `tc_username`='{$art['user']}' LIMIT 1";$/;"	v
+sql	article_detail.php	/^			$sql = "UPDATE `tc_article` SET tc_read_count=tc_read_count+1 WHERE `tc_id`={$_GET['id']}";$/;"	v
+sql	article_detail.php	/^			$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	article_detail.php	/^		$sql = "SELECT `tc_id` FROM `tc_article` WHERE `tc_id`={$_GET['id']} LIMIT 1";$/;"	v
+sql	article_modify.php	/^				$sql = "UPDATE `tc_article` SET `tc_art_title`='{$_POST['title']}',`tc_art_type`='{$_POST['article_type']}',`tc_art_content`='{$_POST['content']}',`tc_modify_time`=NOW() WHERE `tc_id`='{$_GET['id']}'";$/;"	v
+sql	article_modify.php	/^			$sql = "SELECT `tc_id`,`tc_art_author`,`tc_art_type`,`tc_art_title`,`tc_art_content` FROM `tc_article` WHERE `tc_id`='{$_GET$/;"	v
+sql	article_modify.php	/^			$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	article_modify.php	/^		$sql = "SELECT `tc_id` FROM `tc_article` WHERE `tc_id`={$_GET['id']} LIMIT 1";$/;"	v
+sql	article_post.php	/^				$sql = "INSERT INTO `tc_article`(`tc_art_author`,`tc_art_title`,`tc_art_type`,`tc_art_content`,`tc_sent_time`) VALUES('{$_COOKIE['username']}','{$article['art_title']}','{$article['art_type']}','{$article['art_content']}',NOW())";$/;"	v
+sql	article_post.php	/^			$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	blog.php	/^	$sql = "select `tc_id`,`tc_username`,`tc_sex`,`tc_face` from `tc_user` order by tc_reg_time desc limit $pag,$pagelimit";$/;"	v
+sql	blog.php	/^	$sql = "select tc_id from tc_user";$/;"	v
+sql	flower.php	/^				$sql = "INSERT INTO `tc_flower`(`tc_to_user`,`tc_from_user`,`tc_content`,`tc_sent_time`,`tc_flower_count`) VALUES('{$sentFlower['touser']}','{$sentFlower['fromuser']}','{$sentFlower['content']}',NOW(),'{$sentFlower['count']}')";$/;"	v
+sql	flower.php	/^			$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	flower.php	/^			$sql = "select tc_username from tc_user where tc_id='{$_GET['id']}' limit 1";$/;"	v
+sql	flower_list.php	/^			$sql = "SELECT `tc_id`,`tc_flower_count`,`tc_from_user`,`tc_content`,`tc_sent_time` FROM `tc_flower` WHERE `tc_to_user`='{$_COOKIE['username']}' ORDER BY `tc_sent_time` DESC LIMIT $pag,$pagelimit";$/;"	v
+sql	flower_list.php	/^			$sql = "select tc_id from tc_flower where tc_to_user='{$_COOKIE['username']}'";$/;"	v
+sql	flower_list.php	/^		$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	flower_mutil_del.php	/^			$sql = "DELETE FROM `tc_flower` WHERE `tc_id` IN({$delid})";	\/\/批量删除用IN;$/;"	v
+sql	flower_mutil_del.php	/^	$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	friend.php	/^				$sql = "INSERT INTO `tc_friend`(`tc_to_user`,`tc_from_user`,`tc_content`,`tc_friend_time`) VALUES('{$addFriend['touser']}','{$addFriend['fromuser']}','{$addFriend['content']}',NOW())";$/;"	v
+sql	friend.php	/^				$sql = "SELECT `tc_id` FROM `tc_friend` WHERE (`tc_from_user`='{$addFriend['fromuser']}' AND `tc_to_user`='{$addFriend['touser']}') OR (`tc_from_user`='{$addFriend['touser']}' AND `tc_to_user`='{$addFriend['fromuser']}') LIMIT 1";$/;"	v
+sql	friend.php	/^			$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	friend.php	/^			$sql = "select tc_username from tc_user where tc_id='{$_GET['id']}' limit 1";$/;"	v
+sql	friend_check.php	/^			$sql = "UPDATE `tc_friend` SET `tc_friend_state`=1 WHERE `tc_id`={$_GET['id']} LIMIT 1";$/;"	v
+sql	friend_check.php	/^	$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	friend_list.php	/^			$sql = "SELECT * FROM `tc_friend` WHERE `tc_to_user`='{$_COOKIE['username']}' OR `tc_from_user`='{$_COOKIE['username']}' ORDER BY `tc_friend_time` DESC LIMIT $pag,$pagelimit";$/;"	v
+sql	friend_list.php	/^			$sql = "SELECT `tc_id` FROM `tc_friend` WHERE `tc_to_user`='{$_COOKIE['username']}' OR `tc_from_user`='{$_COOKIE['username']}'";$/;"	v
+sql	friend_list.php	/^		$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	friend_mutil_del.php	/^			$sql = "DELETE FROM `tc_friend` WHERE `tc_id` IN({$delid})";	\/\/批量删除用IN;$/;"	v
+sql	friend_mutil_del.php	/^	$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	includes/common.inc.php	/^	$sql = "SELECT COUNT(tc_id) AS count FROM `tc_message` WHERE `tc_to_user`='{$_COOKIE['username']}' AND `tc_state`=0 limit 1";$/;"	v
+sql	index.php	/^	$sql = "SELECT `tc_id` FROM `tc_article` WHERE `tc_reid`=0";$/;"	v
+sql	index.php	/^	$sql = "SELECT `tc_id`,`tc_art_title`,`tc_art_type`,`tc_read_count`,`tc_comment_count` FROM `tc_article` WHERE `tc_reid`=0 ORDER BY `tc_sent_time` DESC LIMIT $pag,$pagelimit";$/;"	v
+sql	login.php	/^				$sql = "update `tc_user` set `tc_last_time`=now(),`tc_last_ip`='{$_SERVER['REMOTE_ADDR']}',`tc_login_count`=`tc_login_count`+1 where `tc_username`='{$rs['tc_username']}'";$/;"	v
+sql	login.php	/^			$sql = "select * from `tc_user` where `tc_username`='{$loginInfo['username']}' and `tc_password`='{$loginInfo['password']}' and `tc_active`=''";$/;"	v
+sql	member.php	/^		$sql = "select `tc_username`,`tc_sex`,`tc_face`,`tc_email`,`tc_site`,`tc_qq`,`tc_reg_time`,`tc_level` from `tc_user` where `tc_username`='{$_COOKIE['username']}'";$/;"	v
+sql	member_modify.php	/^					$sql = "update tc_user set `tc_password`='{$infoModify['newpassword']}',`tc_sex`='{$infoModify['sex']}',`tc_face`='{$infoModify['face']}',`tc_email`='{$infoModify['email']}',`tc_site`='{$infoModify['site']}',`tc_qq`='{$infoModify['qq']}' where `tc_username`='{$_COOKIE['username']}'";$/;"	v
+sql	member_modify.php	/^					$sql = "update tc_user set `tc_sex`='{$infoModify['sex']}',`tc_face`='{$infoModify['face']}',`tc_email`='{$infoModify['email']}',`tc_site`='{$infoModify['site']}',`tc_qq`='{$infoModify['qq']}' where `tc_username`='{$_COOKIE['username']}'";$/;"	v
+sql	member_modify.php	/^			$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	member_modify.php	/^		$sql = "select `tc_username`,`tc_sex`,`tc_face`,`tc_email`,`tc_site`,`tc_qq`,`tc_reg_time`,`tc_level` from `tc_user` where `tc_username`='{$_COOKIE['username']}'";$/;"	v
+sql	message.php	/^				$sql = "insert into `tc_message`(`tc_to_user`,`tc_from_user`,`tc_content`,`tc_sent_time`) values('{$sentMess['touser']}','{$sentMess['fromuser']}','{$sentMess['content']}',now())";$/;"	v
+sql	message.php	/^			$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	message.php	/^			$sql = "select tc_username from tc_user where tc_id='{$_GET['id']}' limit 1";$/;"	v
+sql	message_detail.php	/^				$sql = "UPDATE `tc_message` SET `tc_state`=1 WHERE `tc_id`='{$_GET['messid']}' LIMIT 1";$/;"	v
+sql	message_detail.php	/^			$sql = "SELECT `tc_state`,`tc_from_user`,`tc_content`,`tc_sent_time` FROM `tc_message` WHERE `tc_id`='{$_GET['messid']}' LIMIT 1";$/;"	v
+sql	message_detail.php	/^		$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	message_list.php	/^			$sql = "select `tc_id`,`tc_state`,`tc_from_user`,`tc_content`,`tc_sent_time` from `tc_message` where `tc_to_user`='{$_COOKIE['username']}' order by tc_sent_time desc limit $pag,$pagelimit";$/;"	v
+sql	message_list.php	/^			$sql = "select tc_id from tc_message where tc_to_user='{$_COOKIE['username']}'";$/;"	v
+sql	message_list.php	/^		$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	message_max_del.php	/^			$sql = "DELETE FROM `tc_message` WHERE `tc_id` IN({$delid})";	\/\/批量删除用IN;$/;"	v
+sql	message_max_del.php	/^	$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	message_singal_del.php	/^		$sql = "DELETE FROM `tc_message` WHERE `tc_id`='{$_GET['messid']}' LIMIT 1";$/;"	v
+sql	message_singal_del.php	/^	$sql = "select tc_uniqid from tc_user where tc_username='{$_COOKIE['username']}' limit 1";$/;"	v
+sql	reg.php	/^			$sql = "INSERT INTO `tc_user`(`tc_id`,`tc_uniqid`,`tc_active`,`tc_username`,`tc_password`,`tc_question`,`tc_answer`,`tc_sex`,`tc_face`,`tc_email`,`tc_qq`,`tc_site`,`tc_reg_time`,`tc_last_time`,`tc_last_ip`) VALUES(null,'{$userInfo['uniqid']}','{$userInfo['active']}','{$userInfo['username']}','{$userInfo['password']}','{$userInfo['question']}','{$userInfo['answer']}','{$userInfo['sex']}','{$userInfo['face']}','{$userInfo['email']}','{$userInfo['qq']}','{$userInfo['site']}',now(),now(),'{$_SERVER['REMOTE_ADDR']}')";$/;"	v
+sql	reg.php	/^			$sql = "select * from `tc_user` where `tc_email`='{$userInfo['email']}'";$/;"	v
+sql	reg.php	/^			$sql = "select * from `tc_user` where `tc_username`='{$userInfo['username']}'";$/;"	v
+startTime	blog.php	/^	$startTime = runTime();$/;"	v
+startTime	flower_list.php	/^	$startTime = runTime();$/;"	v
+startTime	friend_list.php	/^	$startTime = runTime();$/;"	v
+startTime	includes/common.inc.php	/^	$startTime = runTime();$/;"	v
+startTime	login.php	/^	$startTime = runTime();$/;"	v
+startTime	member.php	/^	$startTime = runTime();$/;"	v
+startTime	member_modify.php	/^	$startTime = runTime();$/;"	v
+startTime	message_detail.php	/^	$startTime = runTime();$/;"	v
+startTime	message_list.php	/^	$startTime = runTime();$/;"	v
+startTime	reg.php	/^	$startTime = runTime();$/;"	v
+stk	editor/php/JSON.php	/^                            $stk = array(SERVICES_JSON_IN_OBJ);$/;"	v
+stk	editor/php/JSON.php	/^                        $stk = array(SERVICES_JSON_IN_ARR);$/;"	v
+str	class/Validation.class.php	/^			$str="";$/;"	v
+str	editor/php/JSON.php	/^        $str = $this->reduce_string($str);$/;"	v
+str	editor/php/JSON.php	/^        $str = preg_replace(array($/;"	v
+strInfo	includes/func.inc.php	/^			$strInfo = file_get_contents($file);$/;"	v
+string	includes/func.inc.php	/^			$string = htmlspecialchars($string);	\/\/将HTML标签转化为HTML实体$/;"	v
+strlen_chrs	editor/php/JSON.php	/^                    $strlen_chrs = strlen($chrs);$/;"	v
+strlen_var	editor/php/JSON.php	/^                $strlen_var = strlen($var);$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\\\"':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\\\\/':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\\\\\'':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\\\\\\\':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\b':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\f':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\n':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\r':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                            case $substr_chrs_c_2 == '\\t':$/;"	v
+substr_chrs_c_2	editor/php/JSON.php	/^                        $substr_chrs_c_2 = substr($chrs, $c, 2);$/;"	v
+ta	blog.php	/^						$ta = '他';$/;"	v
+ta	blog.php	/^						$ta = '她';$/;"	v
+temp_arr	editor/php/upload_json.php	/^	$temp_arr = explode(".", $file_name);$/;"	v
+time	includes/func.inc.php	/^		$time = explode(" ",microtime());$/;"	v
+tmp_name	editor/php/upload_json.php	/^	$tmp_name = $_FILES['imgFile']['tmp_name'];$/;"	v
+top	editor/php/JSON.php	/^                        $top = end($stk);$/;"	v
+uniqid	reg.php	/^		$_SESSION['uniqid'] = $uniqid = pushUniqid();$/;"	v
+use	editor/php/JSON.php	/^        $this->use = $use;$/;"	v
+userInfo	member.php	/^			$userInfo = array();$/;"	v
+userInfo	member.php	/^			$userInfo = userInfoHtml($userInfo);$/;"	v
+userInfo	member_modify.php	/^			$userInfo = array();$/;"	v
+userInfo	member_modify.php	/^			$userInfo = userInfoHtml($userInfo);$/;"	v
+userInfo	newfile.php	/^$userInfo = array();$/;"	v
+userInfo	reg.php	/^			$userInfo = array();		$/;"	v
+userInfoHtml	includes/func.inc.php	/^	function userInfoHtml($string){$/;"	f
+userStr	includes/reg.func.php	/^		$userStr = trim($userStr);$/;"	v
+utf16	editor/php/JSON.php	/^                                $utf16 = chr(hexdec(substr($chrs, ($c + 2), 2)))$/;"	v
+utf16	editor/php/JSON.php	/^                            $utf16 = $this->utf82utf16($char);$/;"	v
+utf162utf8	editor/php/JSON.php	/^    function utf162utf8($utf16)$/;"	f
+utf8	editor/php/JSON.php	/^                    $utf8 = '';$/;"	v
+utf82utf16	editor/php/JSON.php	/^    function utf82utf16($utf8)$/;"	f
+val	editor/php/JSON.php	/^                                    $val = $this->decode($parts[2]);$/;"	v
+value	editor/php/JSON.php	/^ * $value = $json->decode($input);$/;"	v
+value	editor/php/JSON.php	/^ * $value = array('foo', 'bar', array(1, 2, 'baz'), array(3, array(4)));$/;"	v
+vars	editor/php/JSON.php	/^                $vars = get_object_vars($var);$/;"	v
+width	class/Validation.class.php	/^			$this->width=$width;$/;"	v
+width	class/Validation.class.php	/^		private $width;	$/;"	v
+window.onload	js/article_detail.js	/^	window.onload = function (){$/;"	f
+window.onload	js/blog.js	/^	window.onload = function (){$/;"	f
+window.onload	js/chface.js	/^	window.onload = function (){$/;"	f
+window.onload	js/message.js	/^	window.onload = function (){$/;"	f
+window.onload	js/message_checked.js	/^	window.onload = function(){$/;"	f
+window.onload	js/modify.js	/^	window.onload = function (){$/;"	f
+x	class/Validation.class.php	/^				$x=floor($this->width\/$this->codeNum)*$i+3;$/;"	v
+y	class/Validation.class.php	/^				$y=rand(0,$this->height-15);$/;"	v
+ymd	editor/php/upload_json.php	/^	$ymd = date("Ymd");$/;"	v

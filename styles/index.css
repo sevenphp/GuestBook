@@ -1,0 +1,238 @@
+@CHARSET "UTF-8";
+
+#container{
+	margin:0 auto;
+	width:960px;
+}
+
+
+
+#main-left{
+	width:304px;
+	height:500px;
+	float:left;
+	margin-right:6px;
+}
+
+#left-top{
+	height:243px;
+	border:2px solid #D6D6D6;
+	margin-bottom:6px;
+}
+
+
+#left-top dl{
+	width:200px;
+	padding:10px 0 0 0;
+	margin:0 auto;
+	
+}
+
+#left-top dl dt{
+	text-align:center;
+	font-size:16px;
+	margin:0 0 5px 0;
+	color:#FF6600;
+}
+
+#left-top dl dd{
+	width:100px;
+	float:left;
+	
+}
+
+#left-top dl dd#message{
+	background:url(../images/x1.gif) no-repeat 30px center;
+	text-indent:43px;
+}
+
+#left-top dl dd#friend{
+	background:url(../images/x2.gif) no-repeat 10px center;
+	text-indent:25px;
+}
+
+#left-top dl dd#guest{
+	background:url(../images/x3.gif) no-repeat 30px center;
+	text-indent:43px;
+}
+
+#left-top dl dd#flower{
+	background:url(../images/x4.gif) no-repeat 10px center;
+	text-indent:25px;
+}
+
+#left-top dl dd#email{
+	width:200px;
+	text-align:left;
+	margin-top:3px;
+}
+
+#left-top dl dd#email a{
+	text-decoration:none;
+}
+
+#left-top dl dd#site{
+	width:200px;
+	text-align:left;
+
+}
+
+#left-top dl dd#site a{
+	text-decoration:none;
+}
+
+#left-top dl dd#face{
+	width:200px;
+	float:none;
+	margin-bottom:5px;
+}
+
+#left-top dl dd#face img{
+	display:block;
+	margin:0 auto;
+}
+
+
+#left-bottom{
+	height:243px;
+	border:2px #D6D6D6 solid;
+	/* text-align:center; */
+}
+
+#left-bottom a{
+	display:block;
+	text-decoration:none;
+	width:260px;
+	height:180px;
+/* 	background:red; */
+	margin:20px auto;
+}
+
+#left-bottom a img{
+	max-width:260px;
+	max-height:180px;
+}
+
+#main-right{
+	width:650px;
+	height:500px;
+	float:left;
+}
+
+#right-list{
+	height:496px;
+	border:2px solid #D6D6D6;
+}
+
+#right-list a.post_article{
+	display:block;
+	margin:10px 20px 10px 0;
+	float:right;
+}
+
+#right-list dl{
+	width:580px;
+	margin:0 auto;
+	height:363px;	/*固定帖子列表的高度*/
+}
+
+#right-list dl dd{
+	height:26px;
+	line-height:26px;
+	margin:1px 0;
+	border-bottom:1px dashed #333;
+	text-indent:20px;
+}
+
+#right-list dl dd a{
+	color:#111;
+	text-decoration:underline;
+	margin-right:15px;
+}
+
+#right-list dl dd:hover{
+	border-bottom:1px dashed blue;
+}
+
+#right-list dl dd a:hover{
+	color:#FF6600;
+	text-decoration:none;
+}
+
+#right-list dl dd span{
+	float:right;
+}
+
+#right-list dl dd span a{
+	text-decoration:none;
+	margin:0;
+}
+
+#right-list dl dd span a:hover{
+	text-decoration:none;
+	margin:0;
+}
+
+#right-list dl dd.icon1{
+	background:url(../images/icon1.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon2{
+	background:url(../images/icon2.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon3{
+	background:url(../images/icon3.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon4{
+	background:url(../images/icon4.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon5{
+	background:url(../images/icon5.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon6{
+	background:url(../images/icon6.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon7{
+	background:url(../images/icon7.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon8{
+	background:url(../images/icon8.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon9{
+	background:url(../images/icon9.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon10{
+	background:url(../images/icon10.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon11{
+	background:url(../images/icon11.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon12{
+	background:url(../images/icon12.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon13{
+	background:url(../images/icon13.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon14{
+	background:url(../images/icon14.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon15{
+	background:url(../images/icon15.gif) no-repeat left center;
+}
+
+#right-list dl dd.icon16{
+	background:url(../images/icon16.gif) no-repeat left center;
+}

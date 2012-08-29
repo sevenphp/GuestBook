@@ -1,0 +1,89 @@
+#header{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
+
+#photo-detail{
+	width:960px;
+	margin:0 auto;
+	border:2px #D6D6D6 dashed;
+	margin-top:5px;
+	padding-bottom:7px;
+}
+
+#photo-detail h2{
+	text-align:center;
+}
+
+#photo-detail dl#photo-show-detail{
+	
+	margin:5px 6px;
+	
+}
+
+#photo-detail dl#photo-show-detail dt{
+	text-align:center;
+}
+
+#photo-detail dl#photo-show-detail dt img{
+	display:block;
+	max-width:948px;
+	margin:0 auto;
+/* 	max-height:180px; */
+/* 	min-width:170px;*/
+/* 	min-height:170px;  */
+}
+
+#photo-detail dl#photo-show-detail dd{
+	height:24px;
+	line-height:24px;
+	word-break:break-all;
+	overflow:hidden;
+	padding:0 5px;
+	font-size:14px;
+	text-align:center;
+background:#E7E7E7;
+}
+
+#photo-detail dl#photo-show-detail dd span.colors{
+	font-weight:bold;
+	color:blue;
+}
+
+#photo-detail #photo-re {
+/* 	width:700px;
+	heihgt:400px; */
+	margin:0 auto;
+	border-top:2px #A8A8A8 dashed;
+}
+
+
+#photo-detail #photo-re dl dd{
+	margin:5px 0;
+	text-align:center;
+	padding:5px 0;
+}
+
+#photo-detail #photo-re dl dd#editor_id{
+	padding-left:245px;
+}
+
+#photo-detail #photo-re dl dd input.text{
+	width:400px;
+}
+#photo-detail #photo-re dl dd textarea{
+
+}
+
+.text{
+	border:1px #D7D7D7 dashed;
+	width:465px;
+}
+
+/*脚*/
+#footer{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}

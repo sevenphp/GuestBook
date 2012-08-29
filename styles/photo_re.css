@@ -1,0 +1,111 @@
+@CHARSET "UTF-8";
+
+#re-detail{
+	margin:5px 0;
+}
+
+#re-left{
+	padding-top:5px;
+	float:left;
+	width:180px;
+	/* height:200px; */
+
+	/* border-left:1px solid #FEFEFE; */
+}
+
+#re-left dl{
+	width:150px;
+	float:left;
+	margin:2px 21px;
+	border-bottom:1px dashed #777;
+	padding-bottom:5px;
+}
+
+#re-left dl dt{
+	text-align:center;
+	font-size:16px;
+	margin:0 0 5px 0;
+	color:#FF6600;
+}
+
+#re-left dl dd{
+	width:75px;
+	float:left;
+	
+}
+
+#re-left dl dd#message{
+	background:url(../images/x1.gif) no-repeat left center;
+	text-indent:12px;
+}
+
+#re-left dl dd#friend{
+	background:url(../images/x2.gif) no-repeat left center;
+	text-indent:10px;
+}
+
+#re-left dl dd#guest{
+	background:url(../images/x3.gif) no-repeat left center;
+	text-indent:12px;
+}
+
+#re-left dl dd#flower{
+	background:url(../images/x4.gif) no-repeat left center;
+	text-indent:10px;
+}
+
+#re-left dl dd#face{
+	width:150px;
+	float:none;
+}
+
+#re-left dl dd#face img{
+	display:block;
+	margin:0 auto;
+}
+
+#re-right{
+	float:left;
+	width:774px;
+	/* height:300px; */
+	background:#FFF;
+	padding-bottom:5px;
+	/* border-left:2px solid blue; */
+}
+
+#re-right dl dd{
+	margin:5px 0;
+}
+
+#re-right dl dd.type_img img{
+	position: relative;
+	top:3px;
+}
+
+#re-right dl dd.type img{
+	position: relative;
+	top:3px;
+}
+
+#re-right dl dd.type input{
+	margin-right:3px;
+}
+
+#re-right dl dd img{
+	cursor:pointer;
+	position: relative;
+	top:8px;
+}
+.text{
+	border:1px dashed #D6D;	
+}
+.title{
+	width:400px;
+}
+.code{
+	width:60px;
+}
+
+#re-right textarea{
+	width:770px;
+}

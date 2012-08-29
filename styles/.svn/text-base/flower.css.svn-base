@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+body {
+	width:auto;
+}
+
+#message{
+	width:80%;
+	margin:0 auto;
+	
+}
+
+#message h3{
+	border:2px dashed #D6D6D6;	
+	text-align:center;
+}
+
+#message dl dd{
+	margin:5px 0;
+}
+
+#message dl dd select{
+	width:60px;
+}
+
+#message dl dd select option{
+	background:url(../images/x4.gif) no-repeat center right;
+}
+
+#message dl dd img{
+	cursor:pointer;
+	position: relative;
+	top:8px;
+}
+.text{
+	border:1px dashed #D6D;	
+}
+
+.code{
+	width:60px;
+}
+
+#message textarea{
+	width:478px;
+	height:300px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}

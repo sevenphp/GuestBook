@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+
+body {
+	width:auto;
+}
+
+#post_article{
+	width:80%;
+	margin:0 auto;
+	
+}
+
+#post_article h3{
+	border:2px dashed #D6D6D6;	
+	text-align:center;
+}
+
+#post_article dl dd{
+	margin:5px 0;
+}
+
+#post_article dl dd.type img{
+	position: relative;
+	top:3px;
+}
+
+#post_article dl dd.type input{
+	margin-right:3px;
+}
+
+#post_article dl dd img{
+	cursor:pointer;
+	position: relative;
+	top:8px;
+}
+.text{
+	border:1px dashed #D6D;	
+}
+.title{
+	width:400px;
+}
+.code{
+	width:60px;
+}
+
+#post_article textarea{
+	width:670px;
+	height:250px;
+}

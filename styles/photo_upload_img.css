@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+body {
+	width:auto;
+}
+
+#upimg{
+	width:90%;
+	margin:0 auto;
+	margin-top:25px;
+}

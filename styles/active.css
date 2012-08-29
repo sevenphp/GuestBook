@@ -1,0 +1,33 @@
+#header{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
+
+#active{
+	width:960px;
+	margin:0 auto;
+	border:2px dashed #D6D6D6;
+	margin-top:5px;
+}
+
+#active h2{
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-weight:bolder;
+	font-size:20px;
+	border-bottom: 2px dashed #D6D6D6;
+	margin:0 0 10px 0;
+}
+
+#active p{
+	text-align:center;
+	padding:5px;
+}
+
+#footer{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}

@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+
+#header{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
+
+#reg{
+	width:960px;
+	margin:0 auto;
+	border:2px dashed #D6D6D6;
+	margin-top:5px;
+}
+
+#reg h2{
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-weight:bolder;
+	font-size:20px;
+	border-bottom: 2px dashed #D6D6D6;
+}
+
+#reg dl{
+	width:400px;
+	margin:0 auto;
+}
+
+#reg dl dt{
+	text-align:center;
+	padding:5px 0;
+	font-weight:bold;
+}
+
+#reg dl dd{
+	padding:3px 0;
+}
+
+#reg dl dd#face{
+	padding-left:110px;
+}
+
+#reg dl dd img{
+	cursor:pointer;
+}
+.post-bottom{
+	margin-left:60px;
+}
+
+
+.text{
+	border:1px dashed #333;
+}
+
+.code{
+	width:60px;
+}
+
+#footer{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
+

@@ -1,0 +1,25 @@
+<?php
+    //防止直接调用(非法调用)
+	if(!defined("IN_TAG")){
+		exit('Access Tag No Defined');
+	}
+	
+	define('DB_HOST', 'localhost');
+	define('DB_USER', 'root');
+	define('DB_PASS', '');
+	define('DB_NAME', 'testcms');
+	
+	//1.连接数据库
+	
+	/*用在本地测试*/
+	$conn = @mysql_connect(DB_HOST,DB_USER,DB_PASS) or die('数据库连接失败!');
+	/*用在SAE测试*/
+	//$conn = @mysql_connect(SAE_MYSQL_HOST_M.':'.SAE_MYSQL_PORT,SAE_MYSQL_USER,SAE_MYSQL_PASS) or die('数据库连接失败!');
+	//2.选择数据库
+	/*用在本地测试*/
+	mysql_select_db(DB_NAME) or die('数据库不存在!');
+	/*用在SAE测试*/
+	//mysql_select_db(SAE_MYSQL_DB) or die('数据库不存在!');
+	//3.设置字符集
+	mysql_query("SET NAMES UTF8");
+?>

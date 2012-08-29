@@ -1,0 +1,32 @@
+/*分页列表的样式*/
+#pagelist-num{
+	margin-top:5px;
+}
+
+#pagelist-num ul{
+	float:right;
+	height:25px;
+	line-height:25px;
+	padding-right:30px;
+	margin-bottom:5px;
+}
+
+#pagelist-num ul li{
+	float:left;
+	width:25px;
+	height:25px;
+	margin:2px 3px 5px 3px;
+}
+
+#pagelist-num ul li a{
+	display:block;
+	text-align:center;
+	border:1px solid #D6D6D6;
+	color:#000;
+}
+
+#pagelist-num ul li a:hover,#pagelist-num ul li a.selected{
+	background:#333;
+	font-weight:bold;
+	color:#FFF;
+}

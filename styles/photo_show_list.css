@@ -1,0 +1,85 @@
+#header{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
+
+#photo-show{
+	width:960px;
+	margin:0 auto;
+	border:2px dashed #D6D6D6;
+	margin-top:5px;
+	padding-bottom:7px;
+}
+
+#photo-show h2{
+	text-align:center;
+}
+
+#photo-show p{
+	text-align:center;
+}
+
+#photo-show dl{
+	/* width:180px; */
+	float:left;
+	/* height:180px; */
+	background:#E7E7E7;
+	margin:5px 6px 5px 6px;
+	
+}
+
+#photo-show dl dt img{
+	max-width:178px;
+	max-height:180px;
+/* 	min-width:170px;*/
+	min-height:170px; 
+}
+
+/* #photo dl dt{
+	width:94px;
+	height:93px;
+	margin:0 auto;
+	margin-top:10px;
+	background:url(../images/photo.jpg) no-repeat 0 0;
+} */
+
+/* #photo dl dt a{
+	display:block;
+	width:94px;
+	height:93px;
+} */
+
+/* #photo dl dt img{
+	display:block;
+	width:70px;
+	height:70px;
+	position:relative;
+	left:15px;
+	top:10px;
+	cursor:pointer;
+} */
+
+
+
+#photo-show dl dd{
+	height:24px;
+	line-height:24px;
+	word-break:break-all;
+	overflow:hidden;
+	padding:0 5px;
+	font-size:12px;
+	text-align:center;
+}
+
+#add-dir{
+	text-align:center;
+	margin:5px auto;
+}
+
+/*脚*/
+#footer{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}

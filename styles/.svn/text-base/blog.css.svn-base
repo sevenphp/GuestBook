@@ -1,0 +1,76 @@
+#header{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
+
+#blog{
+	width:960px;
+	margin:0 auto;
+	border:2px dashed #D6D6D6;
+	margin-top:5px;
+	padding-bottom:7px;
+}
+
+#blog h2{
+	text-align:center;
+}
+
+#blog dl{
+	width:150px;
+	float:left;
+	margin:2px 21px;
+}
+
+#blog dl dt{
+	text-align:center;
+	font-size:16px;
+	margin:0 0 5px 0;
+	color:#FF6600;
+}
+
+#blog dl dd{
+	width:75px;
+	float:left;
+	
+}
+
+#blog dl dd#message{
+	background:url(../images/x1.gif) no-repeat left center;
+	text-indent:12px;
+}
+
+#blog dl dd#friend{
+	background:url(../images/x2.gif) no-repeat left center;
+	text-indent:10px;
+}
+
+#blog dl dd#guest{
+	background:url(../images/x3.gif) no-repeat left center;
+	text-indent:12px;
+}
+
+#blog dl dd#flower{
+	background:url(../images/x4.gif) no-repeat left center;
+	text-indent:10px;
+}
+
+#blog dl dd#face{
+	width:150px;
+	float:none;
+}
+
+#blog dl dd#face img{
+	display:block;
+	margin:0 auto;
+}
+
+
+
+
+/*脚*/
+#footer{
+	width:960px;
+	margin:0 auto;
+	margin-top:5px;
+}
